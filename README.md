@@ -1,3 +1,21 @@
-### 一個簡易的圖片上傳
+# A simple upload image component
 
-#### 使用 React + Express
+## Features
+
+* [Express.js](https://github.com/expressjs/express)
+
+* [Create-react-app](https://github.com/facebook/create-react-app)
+
+* [multiparty](https://github.com/pillarjs/multiparty)
+
+## Installation
+
+1.1 Backend => `npm install` or `yarn`
+
+1.2 Frontend => `cd client` and `npm install` or `yarn`
+
+## Start
+
+2.1 Backend => `yarn start`
+
+2.2 Frontend => `yarn client` or `cd client && yarn start`
