@@ -13,13 +13,13 @@
 1.1 Backend
 
 ```
-npm install or yarn
+yarn
 ```
 
 1.2 Frontend
 
 ```
-cd client and npm install or yarn
+cd client and yarn
 ```
 
 ## Start
