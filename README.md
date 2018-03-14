@@ -10,12 +10,28 @@
 
 ## Installation
 
-1.1 Backend => `npm install` or `yarn`
+1.1 Backend
 
-1.2 Frontend => `cd client` and `npm install` or `yarn`
+```
+npm install or yarn
+```
+
+1.2 Frontend
+
+```
+cd client and npm install or yarn
+```
 
 ## Start
 
-2.1 Backend => `yarn start`
+2.1 Backend
 
-2.2 Frontend => `yarn client` or `cd client && yarn start`
+```
+yarn start
+```
+
+2.2 Frontend
+
+```
+yarn client or cd client && yarn start
+```
